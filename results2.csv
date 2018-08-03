@@ -1,0 +1,1000 @@
+Tree,Grass,Bird,Dog,Fence
+Flower,butterfly,Tree,Grass,Flower Pot
+Bee,Tree,Bird,Dog,Flower Pot
+Flower,Bee,butterfly,Bird,Umbrella
+Flower,Tree,Dog,Cat,Fence
+Flower,butterfly,Grass,Bird,Chair
+Flower,Bird,Dog,Road,Flower Pot
+Grass,Dog,Human,Fence,House
+Flower,Bee,Tree,Umbrella,Fence
+Bee,butterfly,Tree,Bird,Fence
+Dog,Cat,Umbrella,Flower Pot,House
+Flower,butterfly,Tree,Dog,Fence
+Flower,Bee,butterfly,Tree,Chair
+Tree,Bird,Dog,Fence,House
+Flower,butterfly,Human,Chair,Fence
+Tree,Bird,Cat,Umbrella,House
+Flower,Tree,Grass,Bird,Flower Pot
+Bee,Tree,Dog,Cat,Flower Pot
+Flower,butterfly,Flower Pot,Fence,House
+Flower,Bee,butterfly,Cat,Flower Pot
+Tree,Dog,Cat,Human,Fence
+Flower,butterfly,Dog,Chair,Flower Pot
+Flower,Tree,Dog,Flower Pot,Lawn Mower
+Flower,Bee,butterfly,Chair,Fence
+Flower,butterfly,Grass,Cat,Flower Pot
+Bee,Bird,Cat,Human,House
+Bee,Tree,Road,Umbrella,Fence
+Flower,Tree,Dog,Flower Pot,House
+Tree,Grass,Dog,Cat,Road
+Bee,Dog,Umbrella,Flower Pot,House
+Flower,butterfly,Grass,Bird,Cat
+Flower,butterfly,Dog,Human,Flower Pot
+Flower,Bee,Grass,Bird,Lawn Mower
+Flower,butterfly,Bird,Dog,House
+Flower,Tree,Grass,Dog,Cat
+Flower,Bird,Flower Pot,Fence,House
+Bird,Dog,Human,Fence,House
+Tree,Grass,Bird,Cat,Flower Pot
+Bee,Tree,Grass,Bird,Fence
+Bee,butterfly,Bird,Road,Desk
+Bee,Bird,Dog,Cat,Human
+Flower,butterfly,Bird,Dog,Chair
+Flower,Bird,Desk,Flower Pot,House
+Flower,Bee,Bird,Human,Flower Pot
+Bee,Tree,Dog,Umbrella,Fence
+Grass,Dog,Flower Pot,Fence,Lawn Mower
+Flower,Tree,Grass,Dog,Flower Pot
+Flower,butterfly,Tree,Bird,Flower Pot
+Flower,Tree,Bird,Human,Desk
+Flower,butterfly,Dog,Cat,Human
+Flower,Bee,Road,Human,Flower Pot
+Bee,butterfly,Tree,Dog,Human
+Bee,Grass,Bird,Dog,Cat
+Flower,butterfly,Grass,Bird,Fence
+Bee,Grass,Bird,Cat,Fence
+Bee,butterfly,Tree,Bird,Flower Pot
+Flower,Bee,butterfly,Tree,Cat
+Flower,Bee,Tree,Grass,Bird
+Grass,Bird,Umbrella,House,Lawn Mower
+Flower,butterfly,Dog,Fence,House
+Flower,Grass,Bird,Dog,Fence
+Flower,Bee,butterfly,Tree,Fence
+Bee,butterfly,Dog,Cat,Lawn Mower
+Flower,Grass,Cat,Road,Flower Pot
+Flower,butterfly,Tree,Bird,Cat
+Bee,butterfly,Grass,Bird,Fence
+Flower,Grass,Dog,Umbrella,House
+Flower,Bee,butterfly,Bird,Chair
+Flower,butterfly,Tree,Dog,House
+Bird,Dog,Cat,Road,Human
+Bee,Tree,Bird,Dog,Flower Pot
+Flower,Bee,Tree,Bird,Fence
+Flower,butterfly,Tree,Bird,Flower Pot
+Flower,Cat,Flower Pot,Fence,House
+Bee,butterfly,Grass,Road,Flower Pot
+Flower,Bee,Grass,Cat,Human
+Flower,butterfly,Tree,Grass,Dog
+Grass,Dog,Cat,Desk,Fence
+Bee,Grass,Dog,Flower Pot,Fence
+Flower,Bee,butterfly,Bird,Dog
+Tree,Grass,Human,Umbrella,Flower Pot
+Flower,Bee,Bird,Road,Flower Pot
+Bee,Grass,Dog,Fence,Lawn Mower
+Flower,Tree,Grass,Bird,Flower Pot
+Flower,Cat,Chair,Fence,House
+Flower,Bee,butterfly,Bird,Lawn Mower
+Grass,Dog,Fence,House,Lawn Mower
+Flower,butterfly,Grass,Bird,Flower Pot
+Flower,Bee,butterfly,Flower Pot,Fence
+Flower,butterfly,Tree,Bird,Flower Pot
+Bee,Tree,Dog,Cat,Road
+Tree,Grass,Cat,Road,Fence
+Flower,Grass,Dog,Umbrella,House
+Tree,Dog,Road,Chair,Flower Pot
+Bird,Dog,Cat,Flower Pot,Fence
+Bee,butterfly,Grass,Bird,Human
+Bee,butterfly,Cat,Road,Human
+Flower,butterfly,Tree,Bird,Dog
+Bee,Grass,Dog,Flower Pot,Fence
+Flower,Tree,Bird,Cat,Fence
+Flower,Bee,butterfly,Bird,Road
+Flower,Bird,Cat,Desk,Fence
+Tree,Grass,Dog,Cat,Fence
+Tree,Grass,Bird,Cat,Fence
+Flower,Bee,butterfly,Bird,Human
+Flower,Bee,butterfly,Fence,House
+Flower,Tree,Cat,Chair,Fence
+Flower,Bee,Grass,Road,Human
+Flower,butterfly,Human,Chair,Flower Pot
+Flower,Tree,Bird,Dog,Fence
+Tree,Grass,Cat,Fence,House
+Grass,Bird,Flower Pot,House,Lawn Mower
+Tree,Bird,Dog,Road,House
+Flower,Bee,Tree,House,Lawn Mower
+Flower,butterfly,Tree,Grass,Umbrella
+Flower,Bee,Bird,Dog,Lawn Mower
+Flower,Bee,Tree,Grass,Lawn Mower
+Bee,butterfly,Bird,Umbrella,House
+Flower,Tree,Bird,Dog,Fence
+Flower,Bird,Cat,Human,House
+Flower,Grass,Bird,Dog,Umbrella
+Bee,butterfly,Tree,Dog,Fence
+Flower,butterfly,Bird,Flower Pot,Fence
+Flower,butterfly,Grass,Human,Fence
+Flower,Grass,Dog,Flower Pot,Lawn Mower
+Bee,Tree,Dog,Cat,Chair
+Grass,Bird,Cat,Road,Human
+Flower,butterfly,Tree,Cat,Lawn Mower
+Flower,Road,Human,Umbrella,House
+Bee,Tree,Grass,Cat,House
+Tree,Grass,Dog,Flower Pot,Fence
+Bird,Dog,Road,Umbrella,Flower Pot
+Flower,Bee,Dog,Cat,Desk
+Flower,Grass,Cat,Fence,House
+Flower,butterfly,Dog,Chair,House
+Flower,butterfly,Dog,Cat,Flower Pot
+Flower,Bee,Dog,Cat,Chair
+Tree,Grass,Cat,Human,Flower Pot
+Flower,Grass,Bird,Dog,House
+Flower,Bird,Cat,Umbrella,House
+Flower,Bee,Tree,Grass,Dog
+Bee,Grass,Cat,Desk,Flower Pot
+Bee,Bird,Dog,Cat,Desk
+Flower,Bee,Grass,Flower Pot,Fence
+Flower,butterfly,Tree,Grass,Dog
+Flower,Bee,Tree,Grass,Cat
+Tree,Grass,Bird,Dog,Road
+Flower,Grass,Dog,Road,Desk
+Flower,butterfly,Tree,Flower Pot,House
+Flower,Grass,Dog,Desk,Flower Pot
+Flower,Dog,Road,Umbrella,Flower Pot
+Flower,butterfly,Dog,Flower Pot,House
+Flower,Dog,Cat,House,Lawn Mower
+Flower,Tree,Bird,Cat,Fence
+Flower,Bird,Dog,Cat,Fence
+Flower,butterfly,Grass,Dog,Cat
+Flower,Bird,Dog,Flower Pot,Fence
+Flower,Tree,Cat,Human,House
+Flower,Tree,Dog,Human,Fence
+Bird,Cat,Human,Fence,House
+Flower,Grass,Bird,Dog,Cat
+Tree,Road,Human,Chair,Fence
+Flower,Tree,Grass,Dog,House
+Flower,butterfly,Grass,Bird,Road
+Flower,Bee,butterfly,Grass,Flower Pot
+Flower,butterfly,Tree,Grass,Dog
+Bee,butterfly,Tree,Bird,Cat
+Bee,Cat,Flower Pot,Fence,Lawn Mower
+Flower,Cat,Chair,Flower Pot,Lawn Mower
+Flower,Tree,Bird,Chair,Umbrella
+Flower,Cat,Road,Chair,Flower Pot
+Flower,Bird,Dog,Road,Flower Pot
+Flower,Bee,Bird,Dog,Flower Pot
+Flower,Dog,Road,Human,Fence
+Flower,Bee,Grass,Cat,Flower Pot
+Bee,butterfly,Tree,Grass,House
+Flower,Bee,Cat,Umbrella,House
+Tree,Grass,Dog,Umbrella,Flower Pot
+Flower,Bird,Cat,Umbrella,Fence
+Bee,butterfly,Bird,Dog,Flower Pot
+Bee,Bird,Road,Human,Desk
+Flower,Bee,Tree,Bird,Flower Pot
+Flower,Bee,Tree,Chair,Flower Pot
+Tree,Bird,Road,Flower Pot,Fence
+Flower,butterfly,Grass,Cat,Fence
+Flower,Tree,Grass,Cat,Chair
+Flower,Bee,Tree,Bird,Dog
+Flower,Bee,butterfly,Dog,Chair
+Grass,Human,Flower Pot,Fence,Lawn Mower
+Flower,Bee,butterfly,Bird,Flower Pot
+Bee,Grass,Dog,Human,Fence
+Flower,Bee,Bird,Dog,House
+Bee,Grass,Dog,Cat,House
+Tree,Bird,Umbrella,Flower Pot,Fence
+Flower,butterfly,Tree,Grass,Cat
+Flower,Tree,Bird,Umbrella,Fence
+Flower,Tree,Bird,Dog,Fence
+Bee,butterfly,Dog,Cat,Human
+Flower,butterfly,Dog,Chair,Flower Pot
+Flower,Bee,butterfly,Grass,House
+Flower,Bee,butterfly,Grass,Desk
+Flower,Cat,Chair,Flower Pot,House
+Bee,Tree,Grass,Bird,House
+Flower,Cat,Human,Flower Pot,Fence
+Tree,Grass,Cat,Road,Flower Pot
+Flower,Bird,Cat,Road,Human
+Tree,Dog,Cat,Human,Flower Pot
+Tree,Bird,Dog,Cat,House
+Bee,butterfly,Grass,Dog,Cat
+Flower,Tree,Grass,Bird,Chair
+Flower,Bee,Tree,Cat,Umbrella
+Flower,Cat,Road,Human,Desk
+Flower,butterfly,Cat,Human,Flower Pot
+Bee,butterfly,Tree,Chair,Fence
+Flower,Grass,Dog,Chair,Desk
+Flower,butterfly,Tree,Grass,Flower Pot
+Bee,Dog,Cat,Flower Pot,Fence
+Tree,Grass,Bird,Chair,Fence
+Flower,Tree,Grass,Bird,Dog
+Flower,Grass,Cat,Human,Fence
+Grass,Bird,Dog,Umbrella,Lawn Mower
+Flower,butterfly,Grass,Cat,Chair
+Bee,Grass,Bird,Cat,Lawn Mower
+Grass,Dog,Cat,Chair,House
+Bee,Tree,Grass,Dog,Fence
+Flower,butterfly,Bird,Road,House
+Bee,butterfly,Bird,Chair,Flower Pot
+Bee,Bird,Dog,Fence,Lawn Mower
+Flower,Grass,Cat,Human,Fence
+Flower,Grass,Bird,Desk,Flower Pot
+Flower,butterfly,Grass,Desk,Flower Pot
+Tree,Grass,Dog,Cat,House
+Bee,Tree,Dog,Cat,Flower Pot
+Flower,Tree,Grass,Human,Flower Pot
+Flower,Bee,Grass,Bird,Chair
+Flower,Bee,Tree,Bird,Dog
+Flower,butterfly,Bird,Dog,House
+Flower,butterfly,Cat,Road,Fence
+Bee,butterfly,Tree,Dog,Fence
+Bee,Grass,Bird,Cat,Flower Pot
+Flower,butterfly,Tree,Dog,Fence
+Bee,Bird,Cat,Fence,Lawn Mower
+Flower,Tree,Grass,Flower Pot,Fence
+Flower,Bee,Tree,Cat,Road
+Bee,Grass,Bird,Cat,House
+Flower,Grass,Dog,Flower Pot,House
+Flower,Bee,Tree,Grass,Human
+Tree,Bird,Dog,Human,Flower Pot
+Flower,Tree,Road,Umbrella,Lawn Mower
+Flower,Grass,Cat,Road,Human
+Tree,Bird,Human,Umbrella,Fence
+Flower,Tree,Bird,Dog,Flower Pot
+Flower,Tree,Dog,Cat,Human
+Bee,butterfly,Tree,Chair,Flower Pot
+Flower,Bird,Desk,Umbrella,Flower Pot
+Tree,Grass,Dog,Fence,Lawn Mower
+Flower,Bee,Grass,Bird,Human
+Bee,Grass,Bird,Cat,House
+Flower,Tree,Grass,Cat,Fence
+Tree,Grass,Bird,Cat,Lawn Mower
+Flower,Bird,Dog,Cat,Fence
+Flower,Dog,Desk,House,Lawn Mower
+Flower,butterfly,Tree,Dog,Road
+Flower,Bee,butterfly,Grass,Dog
+Flower,Bee,Bird,Cat,Flower Pot
+Bee,Bird,Dog,Cat,Chair
+Grass,Dog,Cat,Fence,House
+Tree,Bird,Human,Flower Pot,Fence
+Flower,Tree,Dog,Flower Pot,House
+Flower,Bird,Dog,Fence,House
+Flower,Grass,Human,Chair,Flower Pot
+Bee,Tree,Dog,Flower Pot,Fence
+Flower,Bee,butterfly,Cat,Desk
+Bee,Grass,Cat,Flower Pot,Fence
+Bee,Tree,Grass,Bird,Dog
+Bee,Dog,Cat,Road,House
+Bee,Grass,Human,Flower Pot,Fence
+Flower,butterfly,Bird,Dog,Fence
+Bee,butterfly,Bird,Cat,Fence
+Flower,Grass,Cat,Road,Fence
+Bee,Grass,Dog,Cat,Road
+Tree,Grass,Dog,Cat,Fence
+Flower,Bee,butterfly,Tree,Flower Pot
+Bee,butterfly,Tree,Dog,Chair
+Flower,Bee,Bird,Road,Chair
+Flower,Tree,Human,Umbrella,House
+Flower,Grass,Cat,Fence,House
+Flower,Tree,Grass,Umbrella,House
+Tree,Dog,Road,Umbrella,Flower Pot
+Bee,Dog,Cat,Fence,Lawn Mower
+Flower,Bee,Bird,Human,Umbrella
+Flower,Bee,Bird,Dog,Cat
+Grass,Bird,Cat,Fence,House
+Flower,Bee,Grass,Cat,Fence
+Flower,Bee,Tree,Grass,Flower Pot
+Flower,Bird,Flower Pot,House,Lawn Mower
+Flower,Bird,Flower Pot,Fence,House
+Bee,Desk,Flower Pot,Fence,House
+Flower,Grass,Bird,Dog,Fence
+Flower,Tree,Dog,Road,Fence
+Flower,butterfly,Tree,Bird,Dog
+Flower,Bird,Flower Pot,Fence,House
+Flower,Dog,Cat,Human,Flower Pot
+Flower,Bird,Dog,Cat,Umbrella
+Bee,Grass,Cat,Flower Pot,Fence
+Flower,Grass,Bird,Dog,Cat
+Flower,Bee,butterfly,Dog,Flower Pot
+Flower,Bee,butterfly,Grass,Fence
+Dog,Cat,Road,Flower Pot,Fence
+Flower,Bee,butterfly,Dog,Lawn Mower
+Flower,Tree,Bird,Dog,Umbrella
+Grass,Bird,Cat,Chair,Flower Pot
+Flower,Grass,Dog,Cat,Fence
+Flower,Bee,Tree,Cat,Umbrella
+Flower,Tree,Dog,Cat,Flower Pot
+Bee,butterfly,Tree,Road,Chair
+Bird,Dog,Road,Umbrella,Fence
+Flower,butterfly,Tree,Dog,Cat
+Flower,Bee,Bird,Dog,Flower Pot
+Bee,Tree,Dog,Flower Pot,Fence
+Flower,butterfly,Bird,Human,Chair
+Bee,butterfly,Cat,Umbrella,Flower Pot
+Bee,Tree,Bird,Dog,Fence
+Bee,Grass,Bird,Dog,Fence
+Tree,Grass,Bird,Road,Flower Pot
+Bee,Tree,Dog,Road,Chair
+Flower,Bird,Cat,Road,Fence
+Flower,Bee,Cat,Desk,Fence
+Flower,Bee,Cat,Road,Human
+Flower,Bird,Dog,Road,House
+Bee,butterfly,Tree,Grass,Bird
+Tree,Bird,Dog,Fence,Lawn Mower
+Bee,butterfly,Tree,Bird,Cat
+Bee,butterfly,Bird,Cat,Flower Pot
+Bee,Tree,Dog,House,Lawn Mower
+Flower,Bee,Grass,Bird,Fence
+Bee,butterfly,Grass,Bird,Dog
+Flower,Tree,Grass,Bird,Umbrella
+Bee,butterfly,Grass,Umbrella,House
+Flower,Bee,butterfly,Dog,Human
+Flower,Bee,butterfly,Tree,Grass
+Flower,Bird,Human,Desk,Fence
+Flower,butterfly,Dog,Desk,House
+Bee,Grass,Umbrella,Flower Pot,Fence
+Flower,Tree,Cat,Flower Pot,Fence
+Flower,butterfly,Bird,Dog,Flower Pot
+Tree,Grass,Dog,Flower Pot,House
+Flower,butterfly,Tree,Cat,Human
+Flower,butterfly,Bird,Dog,Cat
+Flower,butterfly,Tree,Dog,Flower Pot
+Flower,Tree,Grass,Flower Pot,Fence
+Bee,butterfly,Bird,Umbrella,Lawn Mower
+Bee,butterfly,Bird,Dog,Flower Pot
+Flower,Bee,butterfly,Cat,Road
+Flower,Bee,butterfly,Bird,Cat
+Tree,Bird,Cat,Desk,House
+Flower,Bird,Chair,Umbrella,Fence
+Bee,Dog,Road,Umbrella,Flower Pot
+Bee,butterfly,Tree,Grass,Dog
+Tree,Grass,Road,Flower Pot,Fence
+Tree,Chair,Umbrella,Flower Pot,House
+Bee,butterfly,Bird,Dog,Road
+Flower,Bird,Dog,Human,Flower Pot
+Bee,Tree,Grass,Road,Lawn Mower
+Bee,butterfly,Grass,Desk,Fence
+Tree,Dog,Chair,Desk,Fence
+Bee,Grass,Human,Flower Pot,Lawn Mower
+Flower,Bee,Grass,Dog,Flower Pot
+Flower,Tree,Grass,Dog,Flower Pot
+Flower,butterfly,Tree,Dog,House
+Flower,butterfly,Tree,Bird,Cat
+Bee,butterfly,Dog,Cat,Flower Pot
+Flower,Tree,Bird,Dog,Cat
+Tree,Bird,Human,Flower Pot,House
+Flower,Tree,Cat,Road,Fence
+Bee,Grass,Human,Fence,House
+Flower,Grass,Dog,Flower Pot,Fence
+Flower,butterfly,Grass,Bird,Umbrella
+Flower,butterfly,Desk,Umbrella,Flower Pot
+Tree,Cat,Umbrella,Flower Pot,House
+Tree,Bird,Dog,Desk,Fence
+Flower,Dog,Cat,Road,Fence
+Flower,Tree,Dog,Flower Pot,Fence
+Flower,Bee,Dog,Human,House
+Flower,butterfly,Dog,Cat,Fence
+Tree,Grass,Cat,Chair,Flower Pot
+Flower,butterfly,Dog,Cat,Flower Pot
+Bee,Cat,Flower Pot,Fence,Lawn Mower
+Flower,Bee,Tree,Bird,Fence
+Flower,Bee,Road,Desk,Fence
+Flower,Bee,Grass,Umbrella,Lawn Mower
+Bee,Tree,Grass,Dog,Human
+Flower,Grass,Dog,Cat,Flower Pot
+Flower,Bee,Bird,Flower Pot,Fence
+Tree,Grass,Human,Flower Pot,House
+Bee,butterfly,Cat,Flower Pot,Fence
+Flower,Cat,Human,Flower Pot,House
+Tree,Grass,Umbrella,Fence,House
+Tree,Cat,Road,Umbrella,Flower Pot
+Bee,Tree,Bird,Cat,Fence
+Flower,Bee,Grass,Dog,Umbrella
+Flower,Bird,Dog,Cat,Chair
+Flower,Bee,butterfly,Bird,Dog
+Bee,butterfly,Bird,Road,Flower Pot
+Bee,butterfly,Bird,Dog,Flower Pot
+Flower,Bee,Tree,Dog,Road
+Flower,Bee,Grass,Human,Flower Pot
+Flower,Human,Chair,Flower Pot,House
+Bee,butterfly,Tree,Grass,Umbrella
+Flower,Grass,Cat,Road,Flower Pot
+Flower,Bee,Tree,Grass,Bird
+Flower,Bee,Grass,Desk,Flower Pot
+Flower,butterfly,Bird,Cat,House
+Bee,butterfly,Dog,Cat,Flower Pot
+Bee,Grass,Bird,Human,Fence
+Flower,Grass,Cat,Road,Fence
+Flower,butterfly,Tree,Bird,Dog
+Flower,Bee,Grass,Chair,House
+Flower,Tree,Bird,Umbrella,Flower Pot
+Bee,Bird,Dog,Road,Human
+Flower,Grass,Dog,Human,House
+Flower,Bird,Cat,Umbrella,House
+Tree,Bird,Cat,Chair,House
+Flower,Tree,Bird,Cat,Road
+Flower,Tree,Bird,Cat,Flower Pot
+Tree,Grass,Cat,Chair,House
+Flower,Tree,Grass,Flower Pot,Fence
+Flower,Tree,Grass,Human,Flower Pot
+Flower,Cat,Fence,House,Lawn Mower
+Flower,butterfly,Tree,Grass,Chair
+Flower,butterfly,Tree,Bird,Fence
+Bee,Tree,Grass,Dog,Fence
+Bee,butterfly,Grass,Road,Human
+Tree,Grass,Bird,Dog,Cat
+Flower,butterfly,Dog,Cat,House
+Flower,Grass,Dog,Flower Pot,Lawn Mower
+Flower,butterfly,Tree,Cat,Human
+Flower,butterfly,Human,Flower Pot,Fence
+Tree,Grass,Bird,Road,Fence
+Flower,Tree,Grass,Cat,Fence
+Flower,butterfly,Tree,Dog,Chair
+Flower,Tree,Bird,Dog,Fence
+Flower,Bee,Cat,Human,Umbrella
+Flower,butterfly,Grass,Dog,Human
+Flower,butterfly,Grass,Umbrella,Flower Pot
+Flower,Tree,Dog,Road,Umbrella
+Flower,Grass,Bird,Human,House
+Flower,Bee,Dog,Cat,House
+Bee,butterfly,Tree,Grass,Bird
+Flower,butterfly,Tree,Cat,Chair
+Flower,butterfly,Tree,Bird,Dog
+Flower,butterfly,Grass,Bird,Cat
+Flower,butterfly,Dog,Flower Pot,Fence
+Flower,Bee,Tree,Grass,Umbrella
+Tree,Dog,Cat,Human,Chair
+Bee,butterfly,Dog,Cat,Flower Pot
+Flower,butterfly,Grass,Bird,Cat
+Flower,Bee,Bird,Dog,House
+Bee,Grass,Bird,Dog,Flower Pot
+Bee,Bird,Cat,Human,Fence
+Flower,Bee,Dog,Chair,Flower Pot
+Flower,Grass,Cat,Human,Flower Pot
+Bee,Bird,Dog,Road,Fence
+Flower,Tree,Grass,Dog,Flower Pot
+Bee,Bird,Dog,Fence,House
+Flower,butterfly,Grass,Chair,Umbrella
+Bee,Grass,Dog,Cat,Lawn Mower
+Flower,butterfly,Grass,Dog,Flower Pot
+Flower,Tree,Bird,Dog,Flower Pot
+Bee,butterfly,Dog,Fence,House
+Flower,Grass,Bird,Cat,Flower Pot
+Flower,butterfly,Bird,Dog,Umbrella
+Flower,Cat,Human,Umbrella,Fence
+Flower,butterfly,Grass,Dog,Flower Pot
+Flower,Bee,Grass,Bird,Fence
+Bee,Grass,Bird,Cat,Flower Pot
+Flower,Grass,Chair,Flower Pot,Fence
+Bee,butterfly,Grass,Human,Fence
+Flower,Bee,Bird,Cat,Fence
+Flower,Grass,Dog,Cat,Flower Pot
+Flower,Tree,Grass,Dog,Flower Pot
+Flower,Bee,Dog,Chair,Desk
+Flower,butterfly,Dog,Human,Flower Pot
+Flower,butterfly,Tree,Bird,Cat
+Flower,Bee,Tree,Bird,House
+Flower,Bird,Dog,Cat,Fence
+Flower,Bird,Umbrella,Flower Pot,House
+Flower,Bee,Tree,Flower Pot,Fence
+Flower,butterfly,Tree,Human,Fence
+Flower,Tree,Bird,Dog,Umbrella
+Flower,Bee,Grass,Human,Flower Pot
+Flower,Bird,Human,Umbrella,Flower Pot
+Grass,Dog,Human,Fence,House
+Flower,Tree,Grass,Fence,House
+Bird,Cat,Human,Fence,Lawn Mower
+Flower,butterfly,Tree,Bird,Fence
+Tree,Bird,Dog,Flower Pot,Lawn Mower
+Flower,Bee,Bird,Umbrella,House
+Bee,butterfly,Tree,Grass,Bird
+Flower,Tree,Bird,Dog,Cat
+Flower,Bee,Grass,Bird,Flower Pot
+Bee,butterfly,Tree,Dog,Human
+Flower,Dog,Cat,Flower Pot,Lawn Mower
+Flower,Bird,Cat,Umbrella,Lawn Mower
+Flower,butterfly,Tree,Cat,House
+Bee,Grass,Cat,Road,Human
+Tree,Grass,Road,Fence,House
+Tree,Dog,Cat,Flower Pot,Fence
+Bee,Grass,Bird,Flower Pot,Fence
+Bee,Grass,Bird,Dog,Cat
+Flower,Grass,Bird,Chair,Flower Pot
+Bee,Bird,Cat,Road,Flower Pot
+Grass,Bird,Dog,Desk,Umbrella
+Flower,butterfly,Dog,Cat,Fence
+Flower,Bee,Human,Umbrella,Fence
+Flower,Tree,Grass,Bird,House
+Flower,Tree,Dog,Flower Pot,House
+Flower,Bee,Grass,Cat,Human
+Tree,Bird,Dog,Cat,Road
+Flower,Bee,Tree,Grass,Road
+Flower,Bee,Cat,Human,House
+Flower,butterfly,Grass,Bird,Human
+Grass,Bird,Dog,Human,Fence
+Flower,Grass,Human,House,Lawn Mower
+Flower,butterfly,Cat,Road,House
+Bee,Dog,Road,Chair,Flower Pot
+Bee,Tree,Bird,Human,Fence
+Flower,butterfly,Grass,Flower Pot,House
+Flower,Bee,Cat,Human,Flower Pot
+Flower,Bee,butterfly,Bird,Umbrella
+Flower,butterfly,Tree,Grass,Fence
+Bee,Tree,Grass,Road,Human
+Flower,Bee,Chair,Fence,Lawn Mower
+Flower,Bee,butterfly,Dog,House
+Flower,Grass,Cat,Flower Pot,Fence
+Flower,Grass,Dog,Cat,Fence
+Bird,Dog,Cat,Flower Pot,Fence
+Bee,butterfly,Grass,Dog,Cat
+Flower,Tree,Dog,Road,Flower Pot
+Cat,Human,Flower Pot,Fence,Lawn Mower
+Bee,Tree,Bird,Cat,Human
+Flower,Tree,Dog,Cat,Chair
+Flower,Bee,Tree,Cat,House
+Flower,butterfly,Cat,Flower Pot,Fence
+Flower,Bee,Bird,Cat,Fence
+Flower,Bee,Dog,Cat,House
+Bee,butterfly,Grass,Dog,Fence
+Flower,Tree,Dog,Road,Flower Pot
+Flower,Bee,Tree,Grass,Dog
+Flower,Grass,Bird,Human,Flower Pot
+Tree,Road,Human,Flower Pot,Fence
+Tree,Bird,Dog,Cat,Fence
+Flower,Bee,butterfly,Tree,Dog
+Flower,Tree,Dog,Cat,Flower Pot
+Flower,Grass,Cat,Human,House
+Bee,butterfly,Bird,Cat,Chair
+Flower,Bee,Grass,Human,Chair
+Flower,Tree,Bird,Cat,Flower Pot
+Flower,Tree,Bird,Cat,Lawn Mower
+Bee,Bird,Dog,Road,Umbrella
+Bee,butterfly,Grass,Bird,Flower Pot
+Flower,butterfly,Tree,Dog,House
+Bee,Bird,Desk,Umbrella,Flower Pot
+Flower,Bee,Grass,Dog,Cat
+Bee,Bird,Human,Flower Pot,Lawn Mower
+Flower,butterfly,Tree,Dog,Human
+Flower,butterfly,Tree,Grass,Fence
+Tree,Grass,Dog,Human,House
+Bee,Grass,Bird,Dog,Flower Pot
+Flower,butterfly,Tree,Cat,Desk
+Flower,Cat,Human,Umbrella,House
+Flower,Bee,Tree,Chair,Flower Pot
+Flower,Grass,Cat,Chair,Flower Pot
+Flower,butterfly,Tree,Bird,Cat
+Flower,Bee,Grass,Human,Flower Pot
+Bee,butterfly,Tree,Bird,Fence
+Flower,Bee,Grass,Bird,Flower Pot
+Flower,Bee,butterfly,Dog,Human
+Flower,Tree,Grass,Bird,Fence
+Flower,butterfly,Grass,Chair,Flower Pot
+Flower,butterfly,Grass,Cat,Fence
+Bee,Tree,Human,Flower Pot,House
+Tree,Bird,Dog,Cat,Flower Pot
+Bee,butterfly,Grass,Road,Flower Pot
+Bee,Dog,Cat,Fence,House
+Bee,Bird,Dog,Flower Pot,Fence
+Tree,Grass,Dog,Umbrella,House
+Flower,Tree,Grass,Cat,House
+Tree,Dog,Cat,Human,Flower Pot
+Flower,Bee,Dog,Human,Fence
+Bee,butterfly,Grass,Cat,Fence
+Flower,Bee,butterfly,Dog,Chair
+Flower,Bee,Grass,Bird,Cat
+Tree,Bird,Desk,Flower Pot,House
+Bee,butterfly,Tree,Bird,Dog
+Flower,Bee,Tree,Bird,Desk
+Flower,Bee,Tree,Grass,Human
+Bee,Grass,Bird,Dog,Cat
+Bee,butterfly,Dog,Desk,House
+Flower,Bee,butterfly,Bird,Chair
+Flower,Bee,Grass,Dog,Flower Pot
+Flower,butterfly,Grass,Bird,Flower Pot
+Flower,butterfly,Dog,Chair,House
+Flower,Tree,Grass,Bird,Flower Pot
+Grass,Chair,Umbrella,Flower Pot,House
+Tree,Grass,Bird,Fence,House
+Tree,Grass,Dog,Human,Flower Pot
+Flower,Grass,Cat,Chair,Fence
+Flower,Bee,Grass,Chair,Desk
+Flower,Bee,Bird,Flower Pot,House
+Tree,Grass,Dog,Road,Chair
+Bee,Tree,Grass,Human,House
+Flower,Bee,Tree,Grass,Flower Pot
+Bee,Grass,Bird,Dog,Fence
+Flower,Bee,butterfly,Cat,Umbrella
+Flower,Bee,Tree,Dog,Human
+Flower,Bee,Human,Chair,Umbrella
+Flower,Grass,Bird,Flower Pot,House
+Flower,Bee,Tree,Dog,Chair
+Bee,butterfly,Cat,Human,Flower Pot
+Flower,Grass,Bird,Dog,Umbrella
+Flower,Bee,Chair,Umbrella,House
+Flower,Bee,Cat,Human,Fence
+Flower,Bird,Dog,Human,Chair
+Flower,Bee,Grass,Dog,Human
+Flower,Bee,Cat,Chair,Lawn Mower
+Flower,Bee,butterfly,Dog,Fence
+Bee,Grass,Dog,Human,Chair
+Flower,Bee,butterfly,Dog,Cat
+Grass,Bird,Dog,Human,Flower Pot
+Bee,Grass,Bird,Dog,Cat
+Flower,Bee,Tree,Flower Pot,House
+Bee,Tree,Dog,Human,Fence
+Bee,Grass,Bird,Flower Pot,Fence
+Flower,Bee,Grass,Dog,Cat
+Bee,butterfly,Grass,Cat,Chair
+Flower,Bee,butterfly,Cat,Fence
+Bee,butterfly,Dog,Human,Umbrella
+Flower,Tree,Dog,Flower Pot,Fence
+Bee,Tree,Grass,Dog,Flower Pot
+Flower,butterfly,Bird,Human,House
+Flower,Grass,Bird,Cat,Desk
+Flower,Bee,Tree,Grass,Cat
+Bee,butterfly,Bird,Road,Fence
+Bee,Grass,Cat,Fence,Lawn Mower
+Bee,butterfly,Tree,Bird,House
+Flower,Road,Chair,Flower Pot,House
+Flower,Grass,Bird,Chair,House
+Flower,Tree,Bird,Cat,Flower Pot
+Tree,Grass,Cat,Umbrella,Flower Pot
+Flower,butterfly,Tree,Bird,House
+Bee,Cat,Chair,Flower Pot,House
+Bird,Dog,Cat,Road,Flower Pot
+Flower,Bee,Dog,Chair,Lawn Mower
+Bee,butterfly,Tree,Grass,Umbrella
+Bee,Dog,Cat,Flower Pot,House
+Flower,butterfly,Tree,Grass,Flower Pot
+Grass,Dog,Chair,Flower Pot,Fence
+Flower,butterfly,Grass,Dog,Road
+Flower,Tree,Dog,Cat,Flower Pot
+Flower,Grass,Road,Fence,House
+Flower,butterfly,Tree,Dog,Fence
+Bee,Tree,Dog,Umbrella,Fence
+Flower,butterfly,Tree,Dog,Fence
+Flower,butterfly,Grass,Bird,Flower Pot
+Flower,Tree,Grass,Human,Fence
+Flower,Bee,Bird,Human,Chair
+Flower,Road,Human,Umbrella,Flower Pot
+Flower,Bee,Grass,Bird,House
+Tree,Bird,Dog,Cat,Human
+Bee,butterfly,Cat,Human,Fence
+Flower,Grass,Bird,Cat,Fence
+Flower,Cat,Human,Flower Pot,House
+Bee,Bird,Dog,Road,House
+Flower,Tree,Grass,Bird,Flower Pot
+Grass,Cat,Desk,Umbrella,Flower Pot
+Flower,Bee,butterfly,Tree,Bird
+Bee,Grass,Cat,Umbrella,Lawn Mower
+Bee,butterfly,Cat,Desk,Fence
+Grass,Dog,Cat,Flower Pot,House
+Flower,butterfly,Dog,Human,Fence
+Bee,Tree,Bird,Dog,Cat
+Flower,Bee,butterfly,Grass,Cat
+Flower,Tree,Bird,Dog,Cat
+Flower,Bee,butterfly,Cat,Chair
+Flower,Bee,Tree,Road,Lawn Mower
+Flower,Umbrella,Flower Pot,House,Lawn Mower
+Tree,Dog,Cat,Umbrella,Fence
+Bee,Grass,Bird,Umbrella,Fence
+Flower,Tree,Dog,Flower Pot,Fence
+Flower,butterfly,Tree,Dog,Human
+Tree,Grass,Bird,Umbrella,Fence
+Bee,butterfly,Grass,Dog,Cat
+Flower,butterfly,Dog,Flower Pot,Fence
+Flower,butterfly,Grass,Dog,House
+Bee,Tree,Dog,Cat,Umbrella
+Grass,Bird,Flower Pot,Fence,House
+Flower,Tree,Bird,Dog,Cat
+Flower,Dog,Desk,Flower Pot,Fence
+Tree,Bird,Dog,Flower Pot,House
+Flower,Bee,Bird,Cat,Fence
+Bee,Bird,Cat,Desk,Fence
+Bee,Tree,Grass,Bird,Road
+Flower,Bee,Dog,Umbrella,House
+Bee,Bird,Dog,Cat,Desk
+Flower,butterfly,Tree,Dog,Fence
+Flower,butterfly,Tree,Chair,Fence
+Flower,Bee,butterfly,Grass,Bird
+Dog,Cat,Umbrella,Flower Pot,House
+Flower,butterfly,Bird,Flower Pot,House
+Flower,Bee,butterfly,Dog,Cat
+Flower,butterfly,Cat,Flower Pot,Fence
+Flower,Bee,Tree,Dog,Human
+Flower,Tree,Dog,Flower Pot,House
+Flower,Bird,Cat,Desk,Flower Pot
+Flower,Tree,Dog,Cat,House
+Flower,Bee,Grass,Dog,Umbrella
+Tree,Bird,Human,Chair,Flower Pot
+Flower,Bee,butterfly,Cat,House
+Flower,Tree,Grass,Bird,Cat
+Flower,Bee,butterfly,Grass,House
+Flower,Bee,Tree,Bird,Cat
+Tree,Grass,Dog,Flower Pot,Fence
+Bee,Bird,Road,Umbrella,Fence
+Bee,Tree,Bird,Human,Chair
+Flower,butterfly,Bird,Dog,Human
+Flower,Bee,butterfly,Grass,Bird
+Bee,Grass,Bird,Cat,House
+Flower,Bee,butterfly,Umbrella,House
+Flower,Dog,Cat,Chair,Desk
+Flower,Tree,Bird,Dog,Flower Pot
+Flower,Bee,Bird,Flower Pot,Fence
+Flower,Tree,Dog,Human,House
+Flower,butterfly,Bird,Cat,Flower Pot
+Flower,Tree,Bird,Cat,Flower Pot
+Dog,Cat,Human,Fence,House
+Grass,Bird,Dog,Flower Pot,Fence
+Bee,Tree,Grass,Dog,Cat
+Tree,Grass,Bird,Umbrella,Fence
+Bee,butterfly,Cat,Human,Flower Pot
+Flower,Grass,Bird,Cat,Human
+Flower,Bee,Cat,Human,Umbrella
+Grass,Dog,Road,Chair,Flower Pot
+Bee,Grass,Bird,Fence,House
+Tree,Chair,Flower Pot,Fence,Lawn Mower
+Flower,Tree,Bird,Cat,Fence
+Bee,butterfly,Bird,Dog,Cat
+Flower,Bee,butterfly,Grass,Dog
+Flower,Tree,Grass,Cat,Desk
+Flower,Bee,Desk,Umbrella,Fence
+Bee,butterfly,Cat,Fence,House
+Flower,Bee,Tree,Grass,Umbrella
+Flower,Tree,Dog,Chair,House
+Flower,Grass,Bird,Cat,Flower Pot
+Flower,Tree,Bird,Dog,Fence
+Flower,Tree,Grass,Cat,Fence
+Tree,Dog,Chair,Umbrella,House
+Flower,butterfly,Cat,Umbrella,House
+Tree,Bird,Cat,Umbrella,House
+Flower,Grass,Umbrella,Fence,House
+Flower,Tree,Grass,Dog,Flower Pot
+Flower,Bee,Dog,Road,Umbrella
+Flower,Bee,Tree,Dog,Cat
+Flower,butterfly,Cat,Road,Flower Pot
+Flower,Bee,Grass,Dog,Fence
+Bird,Dog,Cat,Desk,Fence
+Flower,Bee,butterfly,Grass,Chair
+Bee,butterfly,Bird,Chair,Fence
+Flower,butterfly,Tree,Human,Chair
+Grass,Dog,Human,Flower Pot,House
+Bee,Bird,Dog,Cat,Fence
+Grass,Human,Flower Pot,Fence,House
+Flower,Bee,Tree,Dog,Human
+Flower,Dog,Cat,Flower Pot,Fence
+Flower,Bee,Grass,Chair,Flower Pot
+Flower,Grass,Cat,Human,Flower Pot
+Flower,butterfly,Tree,Human,House
+Bee,Grass,Dog,Human,Fence
+Bee,butterfly,Human,Chair,House
+Flower,Dog,Cat,Road,Human
+Flower,Tree,Grass,Bird,Umbrella
+Bee,Grass,Bird,Fence,Lawn Mower
+Flower,Bee,Road,Chair,Fence
+Flower,Grass,Dog,Fence,House
+Bee,butterfly,Tree,Dog,Flower Pot
+Bee,butterfly,Tree,Human,Flower Pot
+Flower,Bee,butterfly,Grass,Bird
+Bee,butterfly,Tree,Grass,Bird
+Flower,Grass,Dog,Human,Flower Pot
+Bee,Tree,Grass,Flower Pot,Fence
+Flower,Bee,butterfly,Bird,Dog
+Tree,Cat,Road,Human,Flower Pot
+Flower,Bee,Grass,Bird,Flower Pot
+Flower,butterfly,Bird,Chair,Fence
+Flower,Tree,Grass,Chair,Flower Pot
+Flower,Bee,butterfly,Tree,Desk
+Bee,Dog,Cat,Chair,Fence
+Bee,butterfly,Grass,Umbrella,Lawn Mower
+Flower,Grass,Bird,Dog,Flower Pot
+Tree,Dog,Umbrella,Flower Pot,Fence
+Flower,Bird,Dog,Flower Pot,House
+Flower,butterfly,Grass,Flower Pot,House
+Flower,butterfly,Grass,Cat,Human
+Tree,Cat,Human,Fence,House
+Flower,butterfly,Bird,Flower Pot,Fence
+Tree,Bird,Dog,Umbrella,Lawn Mower
+Flower,butterfly,Tree,Grass,Bird
+Flower,Tree,Grass,Cat,Flower Pot
+Flower,Bee,Tree,Bird,Flower Pot
+Flower,Bee,Tree,Fence,House
+Bee,butterfly,Human,Fence,House
+Flower,Bee,Grass,Cat,Fence
+Flower,butterfly,Bird,Dog,Cat
+Flower,Tree,Bird,Fence,House
+Bee,butterfly,Tree,Dog,Cat
+Cat,Umbrella,Flower Pot,Fence,Lawn Mower
+Flower,Tree,Grass,Bird,Dog
+Bee,butterfly,Dog,Cat,Human
+Bee,butterfly,Bird,Dog,House
+Flower,Bee,Grass,Dog,Flower Pot
+Tree,Dog,Human,Flower Pot,House
+Flower,Bee,butterfly,Bird,Fence
+Flower,Bee,butterfly,Desk,Fence
+Flower,Grass,Bird,Cat,Flower Pot
+Flower,Bee,butterfly,Grass,Fence
+Bee,Tree,Grass,Bird,Dog
+Flower,butterfly,Tree,Grass,Human
+Flower,butterfly,Tree,Bird,Umbrella
+Bee,butterfly,Tree,Bird,Cat
+Tree,Grass,Bird,Dog,Umbrella
+Bee,butterfly,Dog,House,Lawn Mower
+Flower,butterfly,Bird,Umbrella,Fence
+Flower,Bee,Tree,Grass,Chair
+Flower,Human,Umbrella,Flower Pot,House
+Bee,butterfly,Grass,Bird,Chair
+Bee,butterfly,Tree,Grass,Flower Pot
+Flower,butterfly,Dog,Cat,Human
+Bee,Grass,Bird,Umbrella,Flower Pot
+Bee,butterfly,Human,Chair,Umbrella
+Flower,Bee,butterfly,Tree,Dog
+Flower,Bee,Grass,Cat,Human
+Bee,butterfly,Grass,Dog,Cat
+Flower,Grass,Bird,Dog,House
+Flower,Bee,Tree,Dog,Fence
+Flower,butterfly,Dog,Cat,Fence
+Bird,Dog,Flower Pot,House,Lawn Mower
+Tree,Grass,Bird,Cat,Fence
+Flower,Grass,Dog,Road,Flower Pot
+Flower,Bee,Tree,Grass,House
+Bee,Grass,Cat,Human,Fence
+Flower,Bee,butterfly,Bird,Flower Pot
+Flower,Bee,Grass,Bird,Fence
+Flower,Bee,butterfly,Road,Flower Pot
+Flower,Bee,Bird,Dog,Human
+Flower,Grass,Bird,Fence,House
+Flower,Bird,Dog,Human,Desk
+Flower,Cat,Human,Desk,Fence
+Flower,butterfly,Grass,Cat,Fence
+Bee,Dog,Human,Flower Pot,Fence
+Bee,Grass,Dog,Road,Flower Pot
+Bee,butterfly,Tree,Desk,Flower Pot
+Bee,Tree,Grass,Umbrella,Flower Pot
+Flower,butterfly,Human,Chair,Fence
+Bee,Bird,Dog,Cat,House
+Flower,Bee,Cat,Human,Fence
+Flower,Grass,Bird,Human,Chair
+Flower,butterfly,Cat,Human,Lawn Mower
+Flower,Bee,Cat,Flower Pot,Lawn Mower
+Flower,Bee,Dog,Flower Pot,Fence
+Flower,Bee,Tree,Dog,Fence
+Bee,Tree,Grass,Dog,Flower Pot
+Bee,Grass,Bird,Dog,Flower Pot
+Flower,Bee,Bird,Chair,House
+Flower,Tree,Grass,Human,Flower Pot
+Flower,butterfly,Tree,Bird,House
+Bee,Grass,Dog,Cat,Fence
+Flower,Tree,Grass,Dog,Umbrella
+Grass,Cat,Human,Flower Pot,Fence
+Bee,butterfly,Tree,Dog,Fence
+Flower,butterfly,Tree,Grass,Cat
+Bee,Bird,Dog,Cat,Flower Pot
+Tree,Grass,Bird,Cat,House
+Flower,Grass,Cat,Desk,Flower Pot
+Flower,Dog,Cat,Flower Pot,Fence
+Flower,Tree,Grass,Cat,Desk
+Flower,butterfly,Dog,Fence,House
+Bee,Grass,Bird,Flower Pot,Fence
+Flower,Bee,Human,Desk,Umbrella
+Grass,Bird,Dog,Flower Pot,Fence
+Flower,Bee,Tree,Bird,Flower Pot
+Bee,Grass,Dog,Chair,Fence
+Flower,Bee,Dog,Human,Flower Pot
+Grass,Bird,Cat,Flower Pot,Fence
+Flower,Bee,Grass,Cat,Flower Pot
+Tree,Road,Chair,Flower Pot,Fence
+Tree,Grass,Bird,Road,Human
+Tree,Bird,Dog,Umbrella,Fence
+Flower,Bee,Bird,Dog,Road
+Flower,Bee,butterfly,Bird,Fence
+Flower,Bee,butterfly,Human,Fence
+Bee,butterfly,Grass,Dog,Umbrella
+Tree,Dog,Road,Flower Pot,Fence
+Flower,Tree,Dog,Fence,Lawn Mower
+Bee,Dog,Human,Fence,House
+Flower,Bee,Tree,Grass,Flower Pot
+Flower,Grass,Bird,Dog,Cat
+Grass,Cat,Road,Human,Fence
+Flower,Bee,Tree,Grass,House
+Flower,Tree,Bird,Cat,Fence
+Flower,Bee,Grass,Dog,Lawn Mower
+Bee,Cat,Road,Flower Pot,House
+Flower,Bee,Grass,Bird,Dog
+Flower,Bee,Cat,Flower Pot,House
+Flower,Grass,Bird,Dog,Lawn Mower
+Flower,Bee,Tree,Dog,Human
+Flower,Bee,Tree,Dog,Road
+Flower,Tree,Road,Fence,House
+Flower,Bee,butterfly,Road,Fence
+Bee,butterfly,Grass,Cat,Human
+Bee,butterfly,Bird,Human,Chair
+Bee,Bird,Cat,Road,Chair
+Flower,Bee,Grass,Bird,Cat
+Tree,Bird,Human,House,Lawn Mower
+Bee,butterfly,Dog,Flower Pot,Fence
+Flower,butterfly,Tree,Dog,Cat
+Flower,Bee,Human,Flower Pot,Fence
+Tree,Grass,Chair,Umbrella,House
+Flower,butterfly,Tree,Dog,Flower Pot
+Bee,butterfly,Grass,Bird,Umbrella
+Flower,butterfly,Grass,Bird,Chair
+Bee,butterfly,Grass,Bird,Cat
+Tree,Bird,Cat,House,Lawn Mower
+Flower,Bee,butterfly,Grass,Desk
+Flower,Grass,Cat,Human,Chair
+Flower,Bee,butterfly,Bird,Road
+Bee,butterfly,Bird,Cat,Flower Pot
+Bee,butterfly,Tree,Bird,Cat
+Flower,Tree,Bird,Flower Pot,Fence
+Flower,Bee,Bird,Umbrella,Flower Pot
+Flower,Tree,Grass,Bird,Dog
+Flower,butterfly,Bird,Cat,Chair
+Flower,butterfly,Tree,Dog,Fence
+Flower,butterfly,Bird,Chair,Flower Pot
+Flower,Bee,butterfly,Grass,Dog
+Flower,Bee,Tree,Dog,House
+Bird,Dog,Cat,Umbrella,Lawn Mower
+Flower,Grass,Dog,Road,Fence
+Tree,Cat,Desk,Flower Pot,Lawn Mower
+Flower,Dog,Chair,Flower Pot,Fence
+Flower,Tree,Dog,Flower Pot,Fence
+Flower,Tree,Bird,Dog,Human
+Flower,Grass,Bird,Cat,House
+Flower,Bee,Tree,Road,Fence
+Flower,Bee,Cat,Human,Fence
+Flower,Bee,butterfly,Umbrella,Fence
+Flower,Grass,Bird,Cat,Human
+Flower,Bee,Grass,Dog,Cat
+Flower,Tree,Grass,Dog,Chair
+Flower,Bee,butterfly,Tree,Cat
+Flower,Grass,Bird,Cat,Flower Pot
+Flower,Dog,Cat,Chair,Umbrella
+Flower,Bee,Desk,Umbrella,Flower Pot
+Flower,Tree,Grass,Flower Pot,House
+Flower,butterfly,Bird,Dog,Human
+Flower,butterfly,Grass,Bird,Dog
+Bee,butterfly,Grass,Cat,Fence
+Flower,Bee,Grass,Bird,Dog
+Flower,Tree,Dog,Cat,Flower Pot
+Flower,Bird,Dog,Cat,House
+Flower,Bee,Grass,Cat,Desk
+Flower,Bee,Grass,Chair,House
+Tree,Bird,Dog,Road,Human
+Flower,Bee,butterfly,Cat,Human
+Flower,butterfly,Tree,Cat,Umbrella
+Dog,Cat,Chair,Flower Pot,Fence
+Bee,Grass,Cat,Chair,Fence
+Flower,Bee,Dog,Cat,Road
+Flower,Bee,Road,Flower Pot,House
+Tree,Bird,Dog,Road,Flower Pot
+Flower,Bird,Dog,Fence,House
+Flower,Bee,Tree,Cat,House
+Flower,Bee,Cat,Human,Chair
+Flower,Tree,Grass,Human,Flower Pot
+Flower,Bee,Tree,Bird,Human
+Flower,butterfly,Bird,Dog,Flower Pot
+Flower,Grass,Bird,Dog,Flower Pot
+Flower,Bee,butterfly,Tree,Bird
+Flower,Bee,Grass,Dog,Road
+Bee,Tree,Grass,Bird,Flower Pot
+Flower,Bee,Grass,Dog,Umbrella
+Tree,Grass,Cat,Umbrella,Flower Pot
+Grass,Bird,Dog,Flower Pot,Fence
+Flower,Bee,Grass,Cat,House
+Flower,Bird,Cat,Human,Flower Pot
+Bee,Bird,Dog,Cat,Fence
+Flower,Road,Chair,Desk,Flower Pot
+Bee,Bird,Dog,Cat,Desk
+Bee,butterfly,Grass,Dog,Umbrella
+Flower,butterfly,Tree,Dog,Flower Pot
+Flower,Tree,Bird,Desk,Lawn Mower

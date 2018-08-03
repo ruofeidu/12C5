@@ -1,0 +1,17 @@
+10 Flower
+7 Bee
+7 butterfly
+7 Tree
+7 Grass
+7 Bird
+7 Dog
+7 Cat
+2 Road
+3 Human
+2 Chair
+1 Desk
+2 Umbrella
+5 Flower Pot
+5 Fence
+3 House
+1 Lawn Mower

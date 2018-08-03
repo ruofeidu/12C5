@@ -1,0 +1,12 @@
+10 sofa
+9 chair
+7 table
+8 window
+7 fireplace
+5 bookshelves
+3 rugs
+9 television
+7 lamps
+6 picture frames
+5 plants
+4 clock
